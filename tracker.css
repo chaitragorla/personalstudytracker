@@ -1,0 +1,19 @@
+body{
+    background-color: lightpink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    color:brown;
+}
+#subjects{
+    background-color: tomato;
+    padding: 15px;
+    width:300px;
+    margin:20px auto;
+    border-radius: 10px;
+}
+#average{
+    text-align: center;
+    color: brown;
+}
